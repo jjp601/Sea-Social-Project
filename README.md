@@ -1,5 +1,5 @@
 # Sea Social Project
-The Seas Social Application is a multi-user blog app built with the Django web framework.
+The Sea Social Application is a multi-user blog application built with the Django web framework.
 
 ## Getting Started
 
